@@ -1,0 +1,14 @@
+layout_spectrum: 0.9293948
+color:
+  saturation: 0.3316686
+  lightness: 0.7909839
+  brandStrength: 0.09714139
+  brandColors:
+    - '#BDB289'
+    - '#DEE1D8'
+    - '#171615'
+    - '#654239'
+    - '#897E63'
+  rhythmicContrast: 0.1515646
+typography_spectrum: 0.08319117
+name: Hello Test
